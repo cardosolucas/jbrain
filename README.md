@@ -1,6 +1,6 @@
 # JBrain
 
-# Requirements
+## Requirements
 
 * Oracle Java or Openjdk
 * Ant
